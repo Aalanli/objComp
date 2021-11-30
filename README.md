@@ -1,0 +1,2 @@
+# objComp
+Kaggle competition experiments.
